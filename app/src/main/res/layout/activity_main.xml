@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:lButtom="http://schemas.android.com/apk/res-auto"
+    xmlns:lMultiProgressBar="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <songxiaocai.smallgesturehelper.view.LMultiProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_margin="10dp"
+        android:background="#fceff8"
+        lMultiProgressBar:endColor='#b0299e'
+        lMultiProgressBar:gradientNumber='1'
+        lMultiProgressBar:progress='25'
+        lMultiProgressBar:startColor='#fbe9f6' />
+
+    <songxiaocai.smallgesturehelper.view.LMultiProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_margin="10dp"
+        android:background="#fceff8"
+        lMultiProgressBar:endColor='#b0299e'
+        lMultiProgressBar:gradientNumber='2'
+        lMultiProgressBar:progress='45'
+        lMultiProgressBar:startColor='#fbe9f6' />
+
+    <songxiaocai.smallgesturehelper.view.LMultiProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_margin="10dp"
+        android:background="#fceff8"
+        lMultiProgressBar:endColor='#b0299e'
+        lMultiProgressBar:gradientNumber='3'
+        lMultiProgressBar:progress='65'
+        lMultiProgressBar:startColor='#fbe9f6' />
+
+    <songxiaocai.smallgesturehelper.view.LMultiProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_margin="10dp"
+        android:background="#fceff8"
+        lMultiProgressBar:endColor='#b0299e'
+        lMultiProgressBar:gradientNumber='4'
+        lMultiProgressBar:progress='95'
+        lMultiProgressBar:startColor='#fbe9f6' />
+
+    <songxiaocai.smallgesturehelper.view.LButton
+        android:layout_width="100dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        lButtom:normalColor="@color/red"
+        lButtom:pressColor="@color/yellow" />
+
+    <songxiaocai.smallgesturehelper.view.LButton
+        android:layout_width="100dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        lButtom:buttonRadius="5dp"
+        lButtom:normalColor="@color/red"
+        lButtom:pressColor="@color/yellow" />
+</LinearLayout>

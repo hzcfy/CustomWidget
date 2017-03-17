@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--base-->
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="background">#f0f0f0</color>
+    <!--app-->
+    <color name="green">#54bb40</color>
+    <color name="green_deep">#45a433</color>
+    <color name="green_light">#cee9c9</color>
+
+    <color name="orange">#ff8b00</color>
+
+    <color name="red">#fa3811</color>
+
+    <color name="blue">#4a90e2</color>
+    <color name="blue_light">#9ab5cb</color>
+    <color name="blue_deep">#56667a</color>
+
+    <color name="yellow">#fff5e5</color>
+
+    <color name="red_bg">#f6d7cc</color>
+
+    <color name="gray_3">#333333</color>
+
+    <color name="gray_6">#666666</color>
+
+    <color name="gray_9">#999999</color>
+
+    <color name="gray_c">#cccccc</color>
+
+    <color name="gray_f0">#f0f0f0</color>
+
+    <color name="gray_fa">#fafafa</color>
+
+    <color name="gray_e5">#e5e5e5</color>
+
+    <color name="divide">#999999</color>
+
+</resources>

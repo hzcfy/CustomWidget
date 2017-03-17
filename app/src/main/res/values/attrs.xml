@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LMultiProgressBar">
+        <attr name="progressDrawable" format="reference"></attr>
+        <attr name="gradientNumber" format="integer"></attr>
+        <attr name="progress" format="integer"></attr>
+        <attr name="divideLength" format="integer"></attr>
+        <attr name="divideColor" format="color"></attr>
+        <attr name="startColor" format="color"></attr>
+        <attr name="endColor" format="color"></attr>
+        <attr name="orientation" format="integer"></attr>
+        <attr name="radius" format="dimension"></attr>
+    </declare-styleable>
+    <declare-styleable name="LButton">
+        <attr name="normalColor" format="color"></attr>
+        <attr name="pressColor" format="color"></attr>
+        <attr name="normalDrawable" format="reference"></attr>
+        <attr name="pressDrawable" format="reference"></attr>
+        <attr name="buttonRadius" format="dimension"></attr>
+    </declare-styleable>
+</resources>
